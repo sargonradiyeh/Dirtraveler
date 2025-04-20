@@ -25,10 +25,12 @@ pip install requests termcolor
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   
+```bash
 git clone https://github.com/yourusername/DirTraveler.git
 cd DirTraveler
 ```
+
 2. Ensure dependencies are installed (see Requirements).
 
 ## Usage
